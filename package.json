@@ -1,0 +1,22 @@
+{
+  "name": "env_checklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel app.js --hmr-port 50619"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hndrx-design-studio/env_checklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hndrx-design-studio/env_checklist/issues"
+  },
+  "homepage": "https://github.com/hndrx-design-studio/env_checklist#readme",
+  "dependencies": {
+    "parcel": "^2.10.1"
+  }
+}
